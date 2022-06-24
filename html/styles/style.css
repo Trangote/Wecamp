@@ -1,0 +1,38 @@
+html {
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    background-color: blue;
+}
+
+
+.container{
+    border: 5px solid black;
+    width: 600px;
+    margin: 0px auto 30px auto;
+    background-color: orange;
+}
+
+h1{
+    text-shadow: 2px 2px 2px;
+    color: darkblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+.img{
+    text-align: center;
+}
+p{
+    padding: 10px;
+}
+
+button{
+    margin: 10px auto;
+    background-color: blue;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.nut{
+    text-align: center;
+}
